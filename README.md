@@ -7,7 +7,7 @@
 🍽 *Lunch Break*: 12:30 PM – 1:30 PM
 
 *General Guidelines*:
-✅ All students must bring their laptops every day.
-✅ Daily evaluations will be conducted, including MCQs and programming tasks.
-✅ Proctored assessments will be strictly monitored—any attempt to switch screens will lead to automatic disqualification.
-✅ No leaves are allowed during the training period; students will be closely monitored throughout.
+. ✅ All students must bring their laptops every day.
+. ✅ Daily evaluations will be conducted, including MCQs and programming tasks.
+. ✅ Proctored assessments will be strictly monitored—any attempt to switch screens will lead to automatic disqualification.
+. ✅ No leaves are allowed during the training period; students will be closely monitored throughout.
